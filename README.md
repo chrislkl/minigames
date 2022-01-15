@@ -1,4 +1,4 @@
-#Unbeatable Tic Tac Toe Computer
+UNBEATABLE TIC TAC TOE COMPUTER
 
 Fully playable in console.
 
