@@ -85,7 +85,7 @@ void findEmptyBoard(char TTT[3][5], int emptyNumStop, int* emptySpot, int* total
             }
         }
     }
-    *totalEmptyNum = counter; //get rid of counter. too lazy to do now
+    *totalEmptyNum = counter; 
 }
 
 void findThreat(char sym, char TTT[3][5], int* threat, int* threatNum) {
